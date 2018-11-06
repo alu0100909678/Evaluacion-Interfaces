@@ -8,5 +8,5 @@
 ![](Docs/colorRojo.png)
 
 ## Cambiar tamaño
-![](Docs/tamañoOne.png)
-![](Docs/tamañoTwo.png)
+![](Docs/imageOne.png)
+![](Docs/imageTwo.png)
