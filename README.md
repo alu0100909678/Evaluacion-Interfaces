@@ -1,12 +1,12 @@
 # Evaluacion-Interfaces
 
 ## Comprar Energía. 
-![](docs/comprar.png)
+![](Docs/comprar.png)
 
 ## Cambiar Color con energía
-![](docs/colorVerde.png)
-![](docs/colorRojo.png)
+![](Docs/colorVerde.png)
+![](Docs/colorRojo.png)
 
 ## Cambiar tamaño
-![](docs/tamaño1.png)
-![](docs/tamaño2.png)
+![](Docs/tamaño1.png)
+![](Docs/tamaño2.png)
